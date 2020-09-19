@@ -1,0 +1,6 @@
+# Ignore all non-html files
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.bmp
