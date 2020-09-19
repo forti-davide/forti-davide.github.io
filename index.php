@@ -1,4 +1,9 @@
 <!doctype html>
+
+<?php
+    php_info();
+?>
+
 <hmtl>
     <head>
         <title>Appunti</title>
